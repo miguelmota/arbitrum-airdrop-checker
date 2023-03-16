@@ -1,0 +1,22 @@
+{
+  "name": "arbitrum-airdrop-checker",
+  "version": "1.0.0",
+  "description": "[https://optimism-airdrop-checker.netlify.app/](https://optimism-airdrop-checker.netlify.app/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelmota/optimism-airdrop-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelmota/optimism-airdrop-checker/issues"
+  },
+  "homepage": "https://github.com/miguelmota/optimism-airdrop-checker#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
